@@ -9,7 +9,7 @@
 
 Фильмы без рейтинга (NR) исключены.
 
-Вся работа — в ноутбуке [`kids_rating_classification.ipynb`](kids_rating_classification.ipynb): все пункты задания от описания задачи до выводов.
+Задача расположена в ноутбуке kids_rating_classification.ipynb
 
 ## Данные
 
